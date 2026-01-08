@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pm-launchpad/static/css/main.e1bdcaab.css",
+    "main.js": "/pm-launchpad/static/js/main.c06cc8da.js",
+    "index.html": "/pm-launchpad/index.html",
+    "main.e1bdcaab.css.map": "/pm-launchpad/static/css/main.e1bdcaab.css.map",
+    "main.c06cc8da.js.map": "/pm-launchpad/static/js/main.c06cc8da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1bdcaab.css",
+    "static/js/main.c06cc8da.js"
+  ]
+}
